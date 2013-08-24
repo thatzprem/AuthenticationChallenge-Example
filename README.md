@@ -17,8 +17,8 @@ AuthenticationChallenge-Example
       password: user1
 
 ##### Invalid Credentails:
-    username: user10
-    password: user10
+      username: user10
+      password: user10
 
 ### Credits:
 Greg Stein - for his WebDAV Testing Server (http://test.webdav.org/)
